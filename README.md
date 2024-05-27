@@ -30,3 +30,6 @@ Testes e ajustes finais: [Data];
 Lançamento oficial do site: [Data].
 
 Esse é um projeto incrível que precisa de criatividade e dedicação da equipes de desenvolvimento para entregar um site de qualidade e que atenda aos objetivos propostos. Boa sorte!
+
+# Licença
+## MIT 
